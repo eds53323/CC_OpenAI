@@ -16,3 +16,4 @@ def chat(text):
 
 result = chat( "血壓量測結果 高血壓300 低血壓30 是否正常? 有甚麼須注意的事情")
 print(result)
+conda config --show-sources
